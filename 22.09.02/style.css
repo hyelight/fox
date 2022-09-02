@@ -1,0 +1,30 @@
+h1 {
+  margin: 0;
+}
+body {
+  background: url(images/bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  box-sizing: border-box;
+  height: 100vh;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.bg .ground .brown {
+  width: 300px;
+  height: 240px;
+  background-color: #995e32;
+  text-align: left;
+  margin: 0 auto;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-bottom: 8px solid #66340e;
+  color: white;
+}
+.bg .ground .brown .brown-in {
+  margin: 0 20px;
+}
